@@ -2,155 +2,155 @@
   {
     "icon": "https://img.icons8.ru/fluency/128/microsoft-office-2019.png",
     "title": "Microsoft Office",
-    "Description": "Офисный пакет от Microsoft который включает в себя PowerPoint, Word, Excel, Visio, Accses, Publisher",
-    "LinkDonwload": "",
-    "Type": "Office"
+    "description": "Офисный пакет от Microsoft, который включает в себя PowerPoint, Word, Excel, Visio, Access, Publisher",
+    "linkDownload": "",
+    "type": "Office"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/libre-office-suite.png",
-    "title": "Libre office",
-    "Description": "Бесплатный офис",
-    "LinkDonwload": "",
-    "Type": "Office"
+    "title": "LibreOffice",
+    "description": "Бесплатный офисный пакет с открытым исходным кодом",
+    "linkDownload": "",
+    "type": "Office"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/icloud.png",
-    "title": "Icloud",
-    "Description": "Icloud для системы windows",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "iCloud",
+    "description": "Облачное хранилище от Apple для Windows",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/figma.png",
     "title": "Figma",
-    "Description": "Программа для создания дизайна",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "description": "Программа для создания дизайна интерфейсов и прототипирования",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/visual-studio.png",
-    "title": "Visual stydio",
-    "Description": "IDE для прогромирования и создания своих проектов",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "Visual Studio",
+    "description": "Полнофункциональная IDE для разработки приложений на C++, C#, .NET и других языках",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/visual-studio-code-2019.png",
-    "title": "Visual stydio CODE",
-    "Description": "Простая IDE для написания кода",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "Visual Studio Code",
+    "description": "Лёгкий и мощный редактор кода с поддержкой множества языков и расширений",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/microsoft-powertoys.png",
     "title": "Microsoft PowerToys",
-    "Description": "Программа с дополнительными функциями для windows",
-    "LinkDonwload": "",
-    "Type": "Utility"
+    "description": "Набор утилит для расширения функциональности Windows",
+    "linkDownload": "",
+    "type": "Utility"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/net-framework.png",
-    "title": ".NET",
-    "Description": "Библиотека состоит из .NET Framework 4.8 и .NET Core 8 и выше",
-    "LinkDonwload": "",
-    "Type": "Library"
+    "title": ".NET Desktop Runtime",
+    "description": "Среда выполнения для приложений на .NET Framework 4.8 и .NET 8.0 и выше",
+    "linkDownload": "",
+    "type": "Library"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/android-studio--v3.png",
-    "title": "Android stydio",
-    "Description": "IDE для создания своих приложений для системы Android",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "Android Studio",
+    "description": "Официальная IDE для разработки приложений под Android",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/intellij-idea.png",
     "title": "IntelliJ IDEA",
-    "Description": "IDE для создания своих приложений на java",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "description": "Мощная IDE для разработки на Java и других языках JVM",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/java-coffee-cup-logo.png",
-    "title": "Java",
-    "Description": "Библиотека java для запуска и создания программ на ней",
-    "LinkDonwload": "",
-    "Type": "Library"
+    "title": "Java Runtime Environment",
+    "description": "Среда выполнения для запуска Java-приложений",
+    "linkDownload": "",
+    "type": "Library"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/notepad-plus-plus.png",
     "title": "Notepad++",
-    "Description": "Улучшеный блокнот",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "description": "Улучшенный текстовый редактор с подсветкой синтаксиса",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/python.png",
     "title": "Python",
-    "Description": "IDE с языком прогромирования python",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "description": "Интерпретатор языка программирования Python",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/unity.png",
-    "title": "Unity",
-    "Description": "Игровой движок для создвния своих игр",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "Unity Hub",
+    "description": "Игровой движок для создания 2D и 3D игр",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/obs-studio.png",
-    "title": "OBS studio",
-    "Description": "Программа для записи и трансляции видео",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "OBS Studio",
+    "description": "Бесплатное программное обеспечение для записи и трансляции видео",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/winrar.png",
-    "title": "Winrar",
-    "Description": "Архиватор winrar",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "WinRAR",
+    "description": "Популярный архиватор с поддержкой множества форматов",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/lively-wallpaper.png",
-    "title": "Lively wallpaper",
-    "Description": "Бесплатная программа для живых обоев",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "Lively Wallpaper",
+    "description": "Бесплатная программа для установки живых обоев на рабочий стол",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/vlc.png",
-    "title": "VLC Player",
-    "Description": "Плеер который откроет всё",
-    "LinkDonwload": "",
-    "Type": "Program"
+    "title": "VLC Media Player",
+    "description": "Универсальный медиаплеер, поддерживающий все популярные форматы",
+    "linkDownload": "",
+    "type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/prism-launcher.png",
-    "title": "Prism launcher",
-    "Description": "Minecraft лаунчер для официальных аккаунтов",
-    "LinkDonwload": "",
-    "Type": "Game"
+    "title": "Prism Launcher",
+    "description": "Лаунчер для Minecraft с поддержкой официальных аккаунтов и модов",
+    "linkDownload": "",
+    "type": "Game"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/steam.png",
     "title": "Steam",
-    "Description": "Лучший лаунчер для игр",
-    "LinkDonwload": "",
-    "Type": "Game"
+    "description": "Популярный игровой лаунчер и магазин цифровой дистрибуции",
+    "linkDownload": "",
+    "type": "Game"
   },
   {
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/67/DirectX_12_Ultimate.png",
-    "title": "DirectX",
-    "Description": "Библиотека DirectX для запуска игр",
-    "LinkDonwload": "",
-    "Type": "Library"
+    "title": "DirectX End-User Runtime",
+    "description": "Набор библиотек для запуска игр и мультимедийных приложений",
+    "linkDownload": "",
+    "type": "Library"
   },
   {
     "icon": "https://raw.githubusercontent.com/sempstybi-hub/MYSITYRIVITYRUNIKYT552OUDX/refs/heads/main/images.jpg",
-    "title": "Visual c++ (2008 - 2022)",
-    "Description": "Библиотека visual c++ для запуска игр",
-    "LinkDonwload": "",
-    "Type": "Library"
+    "title": "Microsoft Visual C++ Redistributable",
+    "description": "Набор библиотек Visual C++ для запуска игр и приложений (2008-2022)",
+    "linkDownload": "",
+    "type": "Library"
   }
 ]
