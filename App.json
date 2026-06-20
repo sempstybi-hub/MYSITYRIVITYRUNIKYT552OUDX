@@ -1,0 +1,156 @@
+[
+  {
+    "icon": "https://img.icons8.ru/fluency/128/microsoft-office-2019.png",
+    "title": "Microsoft Office",
+    "Description": "Офисный пакет от Microsoft который включает в себя PowerPoint, Word, Excel, Visio, Accses, Publisher",
+    "LinkDonwload": "",
+    "Type": "Office"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/libre-office-suite.png",
+    "title": "Libre office",
+    "Description": "Бесплатный офис",
+    "LinkDonwload": "",
+    "Type": "Office"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/icloud.png",
+    "title": "Icloud",
+    "Description": "Icloud для системы windows",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/figma.png",
+    "title": "Figma",
+    "Description": "Программа для создания дизайна",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/visual-studio.png",
+    "title": "Visual stydio",
+    "Description": "IDE для прогромирования и создания своих проектов",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/visual-studio-code-2019.png",
+    "title": "Visual stydio CODE",
+    "Description": "Простая IDE для написания кода",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/microsoft-powertoys.png",
+    "title": "Microsoft PowerToys",
+    "Description": "Программа с дополнительными функциями для windows",
+    "LinkDonwload": "",
+    "Type": "Utility"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/net-framework.png",
+    "title": ".NET",
+    "Description": "Библиотека состоит из .NET Framework 4.8 и .NET Core 8 и выше",
+    "LinkDonwload": "",
+    "Type": "Library"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/net-framework.png",
+    "title": ".NET",
+    "Description": "Библиотека состоит из .NET Framework 4.8 и .NET Core 8 и выше",
+    "LinkDonwload": "",
+    "Type": "Library"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/android-studio--v3.png",
+    "title": "Android stydio",
+    "Description": "IDE для создания своих приложений для системы Android",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/intellij-idea.png",
+    "title": "IntelliJ IDEA",
+    "Description": "IDE для создания своих приложений на java",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/java-coffee-cup-logo.png",
+    "title": "Java",
+    "Description": "Библиотека java для запуска и создания программ на ней",
+    "LinkDonwload": "",
+    "Type": "Library"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/notepad-plus-plus.png",
+    "title": "Notepad++",
+    "Description": "Улучшеный блокнот",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/notepad-plus-plus.png",
+    "title": "Notepad++",
+    "Description": "Улучшеный блокнот",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/python.png",
+    "title": "Python",
+    "Description": "IDE с языком прогромирования python",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/unity.png",
+    "title": "Unity",
+    "Description": "Игровой движок для создвния своих игр",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/obs-studio.png",
+    "title": "OBS studio",
+    "Description": "Программа для записи и трансляции видео",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/winrar.png",
+    "title": "Winrar",
+    "Description": "Архиватор winrar",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/lively-wallpaper.png",
+    "title": "Lively wallpaper",
+    "Description": "Бесплатная программа для живых обоев",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/vlc.png",
+    "title": "VLC Player",
+    "Description": "Плеер который откроет всё",
+    "LinkDonwload": "",
+    "Type": "Program"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/prism-launcher.png",
+    "title": "Prism launcher",
+    "Description": "Minecraft лаунчер для официальных аккаунтов",
+    "LinkDonwload": "",
+    "Type": "Game"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/steam.png",
+    "title": "Steam",
+    "Description": "Лучший лаунчер для игр",
+    "LinkDonwload": "",
+    "Type": "Game"
+  }
+]
