@@ -138,5 +138,19 @@
     "Description": "Лучший лаунчер для игр",
     "LinkDonwload": "",
     "Type": "Game"
-  }
+  },
+  {
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/6/67/DirectX_12_Ultimate.png",
+    "title": "DirectX",
+    "Description": "Библиотека DirectX для запуска игр",
+    "LinkDonwload": "",
+    "Type": "Library"
+  },
+  {
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQog3Isq-v1a60cRx3AjUC4aAAUZRJclho_sg&s",
+    "title": "visual c++ (2008 - 2022)",
+    "Description": "Библиотека visual c++ для запуска игр",
+    "LinkDonwload": "",
+    "Type": "Library"
+  },
 ]
