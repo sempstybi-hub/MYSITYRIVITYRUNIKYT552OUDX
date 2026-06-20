@@ -56,13 +56,6 @@
     "Type": "Library"
   },
   {
-    "icon": "https://img.icons8.ru/fluency/128/net-framework.png",
-    "title": ".NET",
-    "Description": "Библиотека состоит из .NET Framework 4.8 и .NET Core 8 и выше",
-    "LinkDonwload": "",
-    "Type": "Library"
-  },
-  {
     "icon": "https://img.icons8.ru/fluency/128/android-studio--v3.png",
     "title": "Android stydio",
     "Description": "IDE для создания своих приложений для системы Android",
@@ -82,13 +75,6 @@
     "Description": "Библиотека java для запуска и создания программ на ней",
     "LinkDonwload": "",
     "Type": "Library"
-  },
-  {
-    "icon": "https://img.icons8.ru/fluency/128/notepad-plus-plus.png",
-    "title": "Notepad++",
-    "Description": "Улучшеный блокнот",
-    "LinkDonwload": "",
-    "Type": "Program"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/notepad-plus-plus.png",
