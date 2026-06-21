@@ -152,5 +152,12 @@
     "description": "Набор библиотек Visual C++ для запуска игр и приложений (2008-2022)",
     "linkDownload": "",
     "type": "Library"
+  },
+  {
+    "icon": "https://img.icons8.ru/fluency/128/sql.png",
+    "title": "SQL",
+    "description": "SQL Server и SSMS для упровления SQL Server",
+    "linkDownload": "",
+    "type": "Program"
   }
 ]
