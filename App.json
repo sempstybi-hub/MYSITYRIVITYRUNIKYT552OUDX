@@ -3,161 +3,328 @@
     "icon": "https://img.icons8.ru/fluency/128/microsoft-office-2019.png",
     "title": "Microsoft Office",
     "description": "Офисный пакет от Microsoft, который включает в себя PowerPoint, Word, Excel, Visio, Access, Publisher",
-    "linkDownload": "",
-    "type": "Office"
+    "linkDownload": "ms-windows-store://pdp/?ProductId=9WZDNCRFJ2QH",
+    "type": "Office",
+    "installType": "msstore"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/libre-office-suite.png",
     "title": "LibreOffice",
     "description": "Бесплатный офисный пакет с открытым исходным кодом",
-    "linkDownload": "",
-    "type": "Office"
+    "linkDownload": "https://download.documentfoundation.org/libreoffice/stable/24.2.0/win/x86_64/LibreOffice_24.2.0_Win_x86-64.msi",
+    "type": "Office",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "LibreOffice_24.2.0_Win_x86-64.msi",
+        "url": "https://download.documentfoundation.org/libreoffice/stable/24.2.0/win/x86_64/LibreOffice_24.2.0_Win_x86-64.msi",
+        "arguments": "/quiet /norestart"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/icloud.png",
     "title": "iCloud",
     "description": "Облачное хранилище от Apple для Windows",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://updates.cdn-apple.com/2024/windows/001-39935-20240305-8F6F7E9C-A891-4E5A-9F1C-4D2B8E6A7F3C/iCloudSetup.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "iCloudSetup.exe",
+        "url": "https://updates.cdn-apple.com/2024/windows/001-39935-20240305-8F6F7E9C-A891-4E5A-9F1C-4D2B8E6A7F3C/iCloudSetup.exe",
+        "arguments": "/quiet"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/figma.png",
     "title": "Figma",
     "description": "Программа для создания дизайна интерфейсов и прототипирования",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "ms-windows-store://pdp/?ProductId=9P8L5Y5Z4H5K",
+    "type": "Program",
+    "installType": "msstore"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/visual-studio.png",
-    "title": "Visual Studio",
+    "title": "Visual Studio 2022 Community",
     "description": "Полнофункциональная IDE для разработки приложений на C++, C#, .NET и других языках",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://aka.ms/vs/17/release/vs_community.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "vs_community.exe",
+        "url": "https://aka.ms/vs/17/release/vs_community.exe",
+        "arguments": "--quiet --norestart --wait"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/visual-studio-code-2019.png",
     "title": "Visual Studio Code",
     "description": "Лёгкий и мощный редактор кода с поддержкой множества языков и расширений",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://update.code.visualstudio.com/latest/win32-x64-user/stable",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "VSCodeSetup.exe",
+        "url": "https://update.code.visualstudio.com/latest/win32-x64-user/stable",
+        "arguments": "/verysilent /suppressmsgboxes /mergetasks=!runcode"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/microsoft-powertoys.png",
     "title": "Microsoft PowerToys",
     "description": "Набор утилит для расширения функциональности Windows",
-    "linkDownload": "",
-    "type": "Utility"
+    "linkDownload": "https://github.com/microsoft/PowerToys/releases/download/v0.79.0/PowerToysSetup-0.79.0-x64.exe",
+    "type": "Utility",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "PowerToysSetup.exe",
+        "url": "https://github.com/microsoft/PowerToys/releases/download/v0.79.0/PowerToysSetup-0.79.0-x64.exe",
+        "arguments": "/quiet /norestart"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/net-framework.png",
-    "title": ".NET Desktop Runtime",
-    "description": "Среда выполнения для приложений на .NET Framework 4.8 и .NET 8.0 и выше",
-    "linkDownload": "",
-    "type": "Library"
+    "title": ".NET Desktop Runtime 8.0",
+    "description": "Среда выполнения для приложений на .NET 8.0",
+    "linkDownload": "https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-8.0.0-windows-x64-installer",
+    "type": "Library",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "dotnet-runtime-8.0.0-win-x64.exe",
+        "url": "https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-8.0.0-windows-x64-installer",
+        "arguments": "/quiet /norestart"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/android-studio--v3.png",
     "title": "Android Studio",
     "description": "Официальная IDE для разработки приложений под Android",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://redirector.gvt1.com/edgedl/android/studio/install/2023.3.1.18/android-studio-2023.3.1.18-windows.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "android-studio.exe",
+        "url": "https://redirector.gvt1.com/edgedl/android/studio/install/2023.3.1.18/android-studio-2023.3.1.18-windows.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/intellij-idea.png",
-    "title": "IntelliJ IDEA",
+    "title": "IntelliJ IDEA Community",
     "description": "Мощная IDE для разработки на Java и других языках JVM",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://download.jetbrains.com/idea/ideaIC-2023.3.4.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "ideaIC-2023.3.4.exe",
+        "url": "https://download.jetbrains.com/idea/ideaIC-2023.3.4.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/java-coffee-cup-logo.png",
-    "title": "Java Runtime Environment",
+    "title": "Java Runtime Environment 8",
     "description": "Среда выполнения для запуска Java-приложений",
-    "linkDownload": "",
-    "type": "Library"
+    "linkDownload": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248347_3d5a2bb8f8d4428bbe28a02552a8cc46",
+    "type": "Library",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "jre-8u401-windows-x64.exe",
+        "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248347_3d5a2bb8f8d4428bbe28a02552a8cc46",
+        "arguments": "/s"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/notepad-plus-plus.png",
     "title": "Notepad++",
     "description": "Улучшенный текстовый редактор с подсветкой синтаксиса",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.4/npp.8.6.4.Installer.x64.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "npp.8.6.4.Installer.x64.exe",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.4/npp.8.6.4.Installer.x64.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/python.png",
-    "title": "Python",
+    "title": "Python 3.12",
     "description": "Интерпретатор языка программирования Python",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "python-3.12.2-amd64.exe",
+        "url": "https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe",
+        "arguments": "/quiet InstallAllUsers=1 PrependPath=1 Include_test=0"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/unity.png",
     "title": "Unity Hub",
     "description": "Игровой движок для создания 2D и 3D игр",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "UnityHubSetup.exe",
+        "url": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/obs-studio.png",
     "title": "OBS Studio",
     "description": "Бесплатное программное обеспечение для записи и трансляции видео",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://github.com/obsproject/obs-studio/releases/download/30.1.2/OBS-Studio-30.1.2-Windows-Installer.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "OBS-Studio-30.1.2-Windows-Installer.exe",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/30.1.2/OBS-Studio-30.1.2-Windows-Installer.exe",
+        "arguments": "/quiet"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/winrar.png",
     "title": "WinRAR",
     "description": "Популярный архиватор с поддержкой множества форматов",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://www.win-rar.com/fileadmin/winrar-versions/winrar-x64-701.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "winrar-x64-701.exe",
+        "url": "https://www.win-rar.com/fileadmin/winrar-versions/winrar-x64-701.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/lively-wallpaper.png",
     "title": "Lively Wallpaper",
     "description": "Бесплатная программа для установки живых обоев на рабочий стол",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "ms-windows-store://pdp/?ProductId=9NTM2QC6QWS7",
+    "type": "Program",
+    "installType": "msstore"
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/vlc.png",
     "title": "VLC Media Player",
     "description": "Универсальный медиаплеер, поддерживающий все популярные форматы",
-    "linkDownload": "",
-    "type": "Program"
+    "linkDownload": "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "vlc-3.0.20-win64.exe",
+        "url": "https://get.videolan.org/vlc/3.0.20/win64/vlc-3.0.20-win64.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/prism-launcher.png",
     "title": "Prism Launcher",
     "description": "Лаунчер для Minecraft с поддержкой официальных аккаунтов и модов",
-    "linkDownload": "",
-    "type": "Game"
+    "linkDownload": "https://github.com/PrismLauncher/PrismLauncher/releases/download/8.0/PrismLauncher-Windows-MSVC-8.0-Installer.exe",
+    "type": "Game",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "PrismLauncher-Windows-MSVC-8.0-Installer.exe",
+        "url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/8.0/PrismLauncher-Windows-MSVC-8.0-Installer.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/steam.png",
     "title": "Steam",
     "description": "Популярный игровой лаунчер и магазин цифровой дистрибуции",
-    "linkDownload": "",
-    "type": "Game"
+    "linkDownload": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+    "type": "Game",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "SteamSetup.exe",
+        "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+        "arguments": "/S"
+      }
+    ]
   },
   {
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/67/DirectX_12_Ultimate.png",
     "title": "DirectX End-User Runtime",
     "description": "Набор библиотек для запуска игр и мультимедийных приложений",
-    "linkDownload": "",
-    "type": "Library"
+    "linkDownload": "https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe",
+    "type": "Library",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "dxwebsetup.exe",
+        "url": "https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe",
+        "arguments": "/Q"
+      }
+    ]
   },
   {
     "icon": "https://raw.githubusercontent.com/sempstybi-hub/MYSITYRIVITYRUNIKYT552OUDX/refs/heads/main/images.jpg",
     "title": "Microsoft Visual C++ Redistributable",
-    "description": "Набор библиотек Visual C++ для запуска игр и приложений (2008-2022)",
-    "linkDownload": "",
-    "type": "Library"
+    "description": "Набор библиотек Visual C++ для запуска игр и приложений (2015-2022)",
+    "type": "Library",
+    "installType": "bundle",
+    "installFiles": [
+      {
+        "name": "VC_redist.x64.exe",
+        "url": "https://aka.ms/vs/17/release/vc_redist.x64.exe",
+        "arguments": "/install /quiet /norestart"
+      },
+      {
+        "name": "VC_redist.x86.exe",
+        "url": "https://aka.ms/vs/17/release/vc_redist.x86.exe",
+        "arguments": "/install /quiet /norestart"
+      }
+    ]
   },
   {
     "icon": "https://img.icons8.ru/fluency/128/sql.png",
-    "title": "SQL",
-    "description": "SQL Server и SSMS для упровления SQL Server",
-    "linkDownload": "",
-    "type": "Program"
+    "title": "SQL Server 2022 Express",
+    "description": "SQL Server и SSMS для управления базами данных",
+    "linkDownload": "https://download.microsoft.com/download/9/1/5/915A3B31-1DC8-4AE8-B85E-1F561CF43876/SQL2022-SSEI-Expr.exe",
+    "type": "Program",
+    "installType": "exe",
+    "installFiles": [
+      {
+        "name": "SQL2022-SSEI-Expr.exe",
+        "url": "https://download.microsoft.com/download/9/1/5/915A3B31-1DC8-4AE8-B85E-1F561CF43876/SQL2022-SSEI-Expr.exe",
+        "arguments": "/Q /ACTION=Install /FEATURES=SQLENGINE /INSTANCENAME=SQLEXPRESS /SECURITYMODE=SQL /SAPWD=Password123"
+      }
+    ]
   }
 ]
